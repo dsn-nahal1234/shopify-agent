@@ -56,7 +56,8 @@ export default function ContactPage() {
               <h2 className="text-sm uppercase tracking-widest text-blue-600 font-bold mb-2">Business Address</h2>
               <p className="text-gray-700">
                 Shopify Compliance Agent<br />
-                [Your Real Address]<br />
+                [26 TF, MIG Flats, Guru Gobind Singh Avenue 
+                Jalandhar, Punjab-144009]<br />
                 India
               </p>
             </div>
